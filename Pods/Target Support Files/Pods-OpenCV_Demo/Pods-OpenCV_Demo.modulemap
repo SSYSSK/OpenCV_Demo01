@@ -1,0 +1,6 @@
+framework module Pods_OpenCV_Demo {
+  umbrella header "Pods-OpenCV_Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
